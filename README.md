@@ -6,7 +6,10 @@ https://youtu.be/C02yeNENvIk
   
 <if you want get more information , please visit wedsite down below>
 
-Oringnal source code from : https://cafe.naver.com/mcu32bit 
+Oringnal source code from : 
+https://cafe.naver.com/mcu32bit 
 
+
+and also :
 https://cafe.naver.com/circuitsmanual/211095
 https://cafe.naver.com/circuitsmanual/195724
